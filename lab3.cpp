@@ -1,7 +1,5 @@
 #include <iostream>
-using namespace std;
-
-// Generic Programming - Ignore 
+using namespace std; 
 
 class Node{
     public:
